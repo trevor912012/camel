@@ -1,0 +1,10 @@
+com\javainuse\model\Geocode.class
+com\javainuse\model\Parameter.class
+com\javainuse\model\Area.class
+com\javainuse\processor\MyProcessor.class
+com\javainuse\model\EventCode.class
+com\javainuse\model\Alert.class
+com\javainuse\model\Info.class
+com\javainuse\MainApp.class
+com\javainuse\route\SimpleRouteBuilder.class
+com\javainuse\route\SimpleRouteBuilder$1.class
